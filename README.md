@@ -4,9 +4,10 @@ This repository tracks my journey, projects, and exercises through the AI Engine
 
 ## 🗺️ Course Syllabus & Progress
 
-- [x] **[Week 1: LLM Fundamentals + API Mastery](file:///c:/Users/callm/Desktop/AI%20ENGINNERING/week1/README.md)**
-  - [x] **[Day 1: Hello LLM](file:///c:/Users/callm/Desktop/AI%20ENGINNERING/week1/day1/README.md)** - Connecting to Groq API, message payloads, and basic synchronous LLM text generation.
-  - [x] **[Day 2: System Prompts & Temperature](file:///c:/Users/callm/Desktop/AI%20ENGINNERING/week1/day2/README.md)** - Configuring system instructions for persona alignment and tuning temperature settings for creativity.
+- [x] **[Week 1: LLM Fundamentals + API Mastery](./week1)**
+  - [x] **[Day 1: Hello LLM](./week1/day1/README.md)** - Connecting to Groq API, message payloads, and basic synchronous LLM text generation.
+  - [x] **[Day 2: System Prompts & Temperature](./week1/day2/README.md)** - Configuring system instructions for persona alignment and tuning temperature settings for creativity.
+  - [x] **[Day 3: Token Tracking & Control](./week1/day3/README.md)** - Monitoring input, output, and total token usage and managing length limitations with finish reason auditing.
 - [ ] **Week 2: Prompt Engineering + Structured Outputs**
 - [ ] **Week 3: RAG Foundations**
 - [ ] **Week 4: Advanced RAG + Evaluation**

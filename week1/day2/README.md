@@ -12,8 +12,8 @@ This project demonstrates how to steer LLM behavior using **System Instructions*
 
 ## 📂 Project Structure
 
-- **[sys_temp.py](file:///c:/Users/callm/Desktop/AI%20ENGINNERING/week1/day2/sys_temp.py)**: Main python script demonstrating the system persona and temperature configurations.
-- **[README.md](file:///c:/Users/callm/Desktop/AI%20ENGINNERING/week1/day2/README.md)**: Current file explaining the concept and execution details.
+- **[sys_temp.py](./sys_temp.py)**: Main python script demonstrating the system persona and temperature configurations.
+- **[README.md](./README.md)**: Current file explaining the concept and execution details.
 
 ## 🚀 How to Run
 

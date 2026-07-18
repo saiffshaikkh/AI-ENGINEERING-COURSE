@@ -11,9 +11,9 @@ A simple starter project demonstrating how to interact with Large Language Model
 
 ## 📂 Project Structure
 
-- **[hello_llm.py](file:///c:/Users/callm/Desktop/AI%20ENGINNERING/week1/day1/hello_llm.py)**: Demonstrates connection to Groq API, message payload preparation, and synchronous completion query.
-- **[main.py](file:///c:/Users/callm/Desktop/AI%20ENGINNERING/week1/day1/main.py)**: Entrypoint starter script.
-- **[.gitignore](file:///c:/Users/callm/Desktop/AI%20ENGINNERING/week1/day1/.gitignore)**: Prevents staging credential files (`.env`) and local environments (`.venv`).
+- **[hello_llm.py](./hello_llm.py)**: Demonstrates connection to Groq API, message payload preparation, and synchronous completion query.
+- **[main.py](./main.py)**: Entrypoint starter script.
+- **[.gitignore](./.gitignore)**: Prevents staging credential files (`.env`) and local environments (`.venv`).
 
 ## 🚀 Getting Started
 
